@@ -1,5 +1,5 @@
 ### Hi there 👋
----
+----
   
 I'm Leonardo, a student that loves technology and helping others.
    
@@ -10,7 +10,8 @@ I'm Leonardo, a student that loves technology and helping others.
   <img height="180em" src ="https://github-readme-stats.vercel.app/api?username=ibiapleo&show_icons=true&theme=dark"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressansantos&layout=compact&theme=dark"/>
 </div>
- ---
+
+ ----
     
 📫 How to reach me: 
 

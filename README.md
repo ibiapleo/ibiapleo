@@ -4,6 +4,7 @@
 I'm Leonardo, a student that loves technology and helping others.
    
 - 🔭 I’m currently studying Analysis and Systems Development at Cesar School
+- I'm also studying Computer Engineering at CIN UFPE
 - I'm open to share new ideas, projects and collaborate work!
 
 <div>

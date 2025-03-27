@@ -9,7 +9,7 @@ I'm Leonardo, a student that loves technology and helping others.
 
 <div>
   <img height="180em" src ="https://github-readme-stats.vercel.app/api?username=ibiapleo&show_icons=true&theme=dark"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressansantos&layout=compact&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibiapleo&layout=compact&theme=dark"/>
 </div>
 
  ----

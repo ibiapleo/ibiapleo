@@ -8,7 +8,7 @@
 
 <div align="center">
   I'm Leonardo, a passionate technology student who loves helping others<br>
-  💻 Currently studying Analysis and Systems Development at Cesar School<br>
+  💻 Currently studying Systems Analysis and Software Development at Cesar School<br>
   👩‍🎓 Also pursuing Computer Engineering at CIn-UFPE<br>
   🚀 Open to sharing ideas, collaborating on projects, and working together!
   <br><br>
